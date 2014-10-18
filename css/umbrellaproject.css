@@ -1,5 +1,5 @@
 body {
-    background: url("../media/umbrella-cover.jpg") bottom left no-repeat fixed;
+    background: url("../media/umbrella-cover.jpg") top left no-repeat fixed;
     background-size: cover;
 }
 
