@@ -22,7 +22,7 @@ body, html {
     position: absolute;
     top: 256px;
     right: 80px;
-    width: 600px;
+    width: 400px;
     text-align: right;
 }
 
@@ -70,5 +70,7 @@ h1, h2 {
     padding: 40px;
     color: #333;
     line-height: 2em;
+}
+.center {
     text-align: center;
 }
